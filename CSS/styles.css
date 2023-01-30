@@ -149,7 +149,7 @@ a:hover {
     padding: 20px 0;
 }
 
-@media (max-width: 570px) {
+@media (max-width: 650px) {
     .mountain {
         width: 400px
     }
