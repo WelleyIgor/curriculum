@@ -78,7 +78,7 @@ a:hover {
 }
 
 .intro-text {
-    width: 50%;
+    width: 70%;
     margin: auto;
     margin-bottom: 100px;
 }
@@ -105,9 +105,7 @@ a:hover {
     margin-left: 30px;
     width: 25%; 
 }
-.footer-link {
-    color: #11999E;
-}
+
 .contact-text {
     width: 40%;
     margin: 40px auto 60px;
@@ -143,6 +141,34 @@ a:hover {
     padding: 50px 0 20px;
 }
 
+.footer-link{
+    color: #11999E;
+    
+}
+
+.twitter-logo {
+    height: 4.5%;
+    width: 4.5%;
+    filter: brightness(0) invert(1);
+}
+
+.git-logo {
+    height: 2%;
+    width: 3%;
+    filter: brightness(0) invert(1);
+}
+
+.linkedin-logo {
+    height: 2%;
+    width: 3%;
+    filter: brightness(0) invert(1);
+} 
+.insta-logo {
+    height: 2%;
+    width: 3%;
+    filter: brightness(0) invert(1);
+}
+
 .my-name-bottom {
     color: #EAF6F6;
     font-size: 0.75rem;
@@ -155,5 +181,11 @@ a:hover {
     }
     .bottom-cloud {
         display: none;
+    }
+    .code-img {
+        width: 40%;
+    }
+    .job-img {
+        width: 40%;
     }
 }
