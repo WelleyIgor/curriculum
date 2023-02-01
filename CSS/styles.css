@@ -142,8 +142,7 @@ a:hover {
 }
 
 .footer-link{
-    color: #11999E;
-    
+    color: #11999E; 
 }
 
 .twitter-logo {
@@ -187,5 +186,25 @@ a:hover {
     }
     .job-img {
         width: 40%;
+    }
+    .twitter-logo {
+        height: 6.5%;
+        width: 6.5%;
+        filter: brightness(0) invert(1);
+    }
+    .git-logo {
+        height: 4%;
+        width: 5%;
+        filter: brightness(0) invert(1);
+    }
+    .linkedin-logo {
+        height: 4%;
+        width: 5%;
+        filter: brightness(0) invert(1);
+    } 
+    .insta-logo {
+        height: 4%;
+        width: 5%;
+        filter: brightness(0) invert(1);
     }
 }
